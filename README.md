@@ -1,6 +1,6 @@
 # phoneauth
 
-testing phone authentication by firebase
+testing phone authentication by firebase using OTP services
 
 ## Getting Started
 
