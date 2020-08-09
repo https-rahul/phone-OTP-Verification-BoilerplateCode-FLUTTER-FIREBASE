@@ -1,4 +1,4 @@
-# phoneauth
+# Phone Auth
 
 testing phone authentication by firebase using OTP services
 
